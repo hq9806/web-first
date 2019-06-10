@@ -1,0 +1,105 @@
+.start{
+	height: 102px;
+}
+.top-nav{
+	height: 102px;
+	width:960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.kfc-logo{
+	width: 100px;
+	height: 102px;
+	float: left;
+}
+.nav-main{
+	width: 615px;
+	height: 87px;
+	float: left;
+	position: relative;
+	padding-left: 18px;
+	padding-top: 15px;
+	background-color: rgba(182,14,39,1);
+}
+.nav-ul{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+}
+ul.nav-ul li{
+	float: left;
+	width:116px;
+	height: 37px;
+	text-align: center;
+}
+.navl-a{
+	color: #707070;
+}
+.edlogo{
+	width: 227px;
+	height: 102px;
+	float: right;
+	margin-top: -1px;
+}
+.center{
+	height: 350px;
+}
+.center-t{
+	width: 960px;
+	height:350px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.cm{
+	height: 65px;
+}
+.cmc{
+	width: 960px;
+	height:65px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.end{
+	height: 300px;
+}
+.end-c{
+	width: 960px;
+	height:300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.end-ul{
+	list-style-type: none;
+	padding-left: 12px;
+}
+.end-li{
+	float: left;
+}
+.end-li:hover{
+		-webkit-box-shadow:0px 5px 5px #c8c8c8 ;
+		-moz-box-shadow:0px 5px 5px #c8c8c8 ;
+		box-shadow:0px 5px 5px #c8c8c8 ;
+}
+.c-l{
+	width: 400px;
+	height:150px;
+	float: left;
+}
+.c1-a{
+	font-size: small;
+	color: brown;
+	text-decoration: none;
+}
+.c1-a:hover{
+	text-decoration: underline;
+}
+.c-r{
+	width: 300px;
+	height:150px;
+	float: right;
+}
+.in-b{
+	background-color: #A52A2A;
+	margin-top: 12px;
+	margin-left: -22px;
+}
